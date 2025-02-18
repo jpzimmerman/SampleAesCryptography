@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SampleAesCryptography": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
